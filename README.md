@@ -1,8 +1,6 @@
-¡Tienes toda la razón! Te refieres al texto original de las políticas de privacidad que escribimos antes, el que tenías en el archivo README.md y que borraste por accidente.
-
-Aquí tienes el texto original en formato Markdown, tal cual como estaba en tu archivo README.md.
 
 Política de Privacidad de La Cuenta - Punto de Venta
+
 Esta política de privacidad describe cómo La Cuenta - Punto de Venta recopila, utiliza y protege la información que proporcionas al utilizar nuestra aplicación móvil.
 
 1. Información que recopilamos
